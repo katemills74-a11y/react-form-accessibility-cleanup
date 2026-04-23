@@ -22,6 +22,8 @@ export default function Form() {
           <label htmlFor="nameInput">Name: * </label>
           <input
             id="nameInput"
+            required
+            type="text"
             value={name}
             onChange={(e) => setName(e.target.value)}
           />
@@ -31,6 +33,8 @@ export default function Form() {
           <label htmlFor="emailInput">Email: * </label>
           <input
             id="emailInput"
+            required
+            type="email"
             value={email}
             onChange={(e) => setEmail(e.target.value)}
           />

@@ -18,6 +18,7 @@ This project demonstrates my ability to take an inaccessible, inconsistent React
 
 ## 📁 Project Structure
 
+```
 react-form-accessibility-cleanup/
 |── before/
 │     ├── AccessibilityCleanup.jsx   ← original version (before)
@@ -26,6 +27,7 @@ react-form-accessibility-cleanup/
 │     ├── AccessibilityCleanup.jsx   ← cleaned version (after)
 │     └── App.jsx
 └── README.md
+```
 
 The **before** and **after** versions are kept separate so you can clearly see the improvements.
 
@@ -86,10 +88,22 @@ Then open the local URL shown in the terminal to view the component in the brows
 ## 📸 Screenshots
 
 - BeforeUI screenshot
-!Before(./screenshot/beforeUi.png
+![Before](./screenshots/beforeUi.png)
 
 - AfterUI screenshot
-!After(./screenshot/afterUi.png
+![After](./screenshots/afterUi.png)
+
+- BeforeCode screenshot
+![Before Code](./screenshots/beforeCode.png)
+
+- Minimal AccessibilityCleanup.jsx screenshot
+![Min Access](./screenshots/minAccessibility.png)
+
+- Newly created Form.jsx screenshot
+![New Form](./screenshots/newFormLayout.png)
+
+- Newly created Styles.css screenshot
+![New Styles](./screenshots/newStyles.png)
 
 ---
 
