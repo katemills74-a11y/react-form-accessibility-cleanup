@@ -73,36 +73,37 @@ Then open the local URL shown in the terminal to view the component in the brows
 
 ### After (AccessibilityCleanup.jsx)
 
-- Correct label + htmlFor associations
+- Correct `label + htmlFor` associations
 - Added accessible names for buttons
-- Added type=\"button\" to prevent unintended form submission
+- Added `type=\"button\"` to prevent unintended form submission
 - Added meaningful alt text
 - Improved semantic HTML
 - Cleaner, more readable JSX
 - Predictable behaviour and clearer logic
 - Better keyboard and screen‑reader accessibility
 - More maintainable and scalable component structure
+- Creation of a `Form.jsx` and `Styles.css`
 
 ---
 
 ## 📸 Screenshots
 
-- BeforeUI screenshot
+- **BeforeUI screenshot**
 ![Before](./screenshots/beforeUi.png)
 
-- AfterUI screenshot
+- **AfterUI screenshot**
 ![After](./screenshots/afterUi.png)
 
-- BeforeCode screenshot
+- **BeforeCode screenshot**
 ![Before Code](./screenshots/beforeCode.png)
 
-- Minimal AccessibilityCleanup.jsx screenshot
+- **Minimal AccessibilityCleanup.jsx screenshot**
 ![Min Access](./screenshots/minAccessibility.png)
 
-- Newly created Form.jsx screenshot
+- **Newly created Form.jsx screenshot**
 ![New Form](./screenshots/newFormLayout.png)
 
-- Newly created Styles.css screenshot
+- **Newly created Styles.css screenshot**
 ![New Styles](./screenshots/newStyles.png)
 
 ---
