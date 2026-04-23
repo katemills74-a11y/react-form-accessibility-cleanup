@@ -1,0 +1,58 @@
+.form-container {
+  margin-top: 10px;  
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  font-family: Arial;
+}
+
+.header {
+  background: #e0d0d0;
+  border:1px solid #e0d0d0;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 24px;
+  color: #333;
+  padding: 5px;
+  margin-bottom: 20px;
+}
+
+.field {
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+.nav {
+  display: inline-block;
+  margin-right: 15px;
+  cursor: pointer;
+  color: #555;
+}
+
+.send-button {
+  width: 120px;
+  padding: 10px;
+  background: #6163d3;
+  color: white;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.sr-alert {
+  position: "absolute";
+  left: "-9999px";
+  height: "1px";
+  width: "1px";
+  overflow: "hidden";
+}
+
+.send-button:hover {
+  background: #4d4a7a;
+}
+
+.footer {
+  margin-top: 10px;
+  font-size: 10px;
+  color: white;
+  text-align: left;
+}
