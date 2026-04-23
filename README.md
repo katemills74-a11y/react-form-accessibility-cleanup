@@ -78,7 +78,7 @@ Then open the local URL shown in the terminal to view the component in the brows
 - Added `type=\"button\"` to prevent unintended form submission
 - Added meaningful alt text
 - Improved semantic HTML
-- Cleaner, more readable JSX
+- Cleaner, more readable `JSX`
 - Predictable behaviour and clearer logic
 - Better keyboard and screen‑reader accessibility
 - More maintainable and scalable component structure
@@ -126,7 +126,7 @@ This example shows exactly the kind of high‑impact, fast‑turnaround improvem
 ## 🌐 Live Demo
 
 View the project here:
-https://katemills74-a11y.github.io/
+https://katemills74-a11y.github.io/react-form-accessibility-cleanup/
 
 ## 📬 Want Something Similar?
 
